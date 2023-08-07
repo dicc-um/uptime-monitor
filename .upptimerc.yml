@@ -33,22 +33,12 @@ sites:
     url: "webserver01.dicc.um.edu.my"
     port: 22
     maxResponseTime: 5000
-  - name: Primary DNS Server
-    check: "tcp-ping"
-    url: "dns1.dicc.um.edu.my"
-    port: 22
-    maxResponseTime: 5000
-  - name: Secondary DNS Server
-    check: "tcp-ping"
-    url: "dns2.dicc.um.edu.my"
-    port: 22
-    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+   baseUrl: /uptime-monitor
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://www.dicc.um.edu.my/wp-content/uploads/2019/01/cropped-DICC_logo-1.png
   name: Upptime
