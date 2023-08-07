@@ -5,34 +5,34 @@ repo: uptime-monitor # The name of this repository
 sites:
   - name: Official Website
     url: https://www.dicc.um.edu.my
-    maxResponseTime: 5000
+    maxResponseTime: 15000
   - name: Single Sign-On Service
     url: https://sso.dicc.um.edu.my
-    maxResponseTime: 5000
+    maxResponseTime: 15000
   - name: Documentation
     url: https://confluence.dicc.um.edu.my
-    maxResponseTime: 5000
+    maxResponseTime: 15000
   - name: Service Desk
     url: https://jira.dicc.um.edu.my/servicedesk
-    maxResponseTime: 5000
+    maxResponseTime: 15000
   - name: Research Data Repository
     url: https://researchdata.um.edu.my
-    maxResponseTime: 5000
+    maxResponseTime: 15000
   - name: VPN Gateway 01
     check: "tcp-ping"
     url: "vpn01.dicc.um.edu.my"
     port: 22
-    maxResponseTime: 5000
+    maxResponseTime: 15000
   - name: VPN Gateway 02
     check: "tcp-ping"
     url: "vpn02.dicc.um.edu.my"
     port: 22
-    maxResponseTime: 5000
+    maxResponseTime: 15000
   - name: Public Web Server
     check: "tcp-ping"
     url: "webserver01.dicc.um.edu.my"
     port: 22
-    maxResponseTime: 5000
+    maxResponseTime: 15000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
