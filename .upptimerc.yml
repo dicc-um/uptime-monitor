@@ -18,6 +18,12 @@ sites:
   - name: Research Data Repository
     url: https://researchdata.um.edu.my
     maxResponseTime: 15000
+  - name: DICC Drive Service
+    url: https://drive.dicc.um.edu.my
+    maxResponseTime: 15000
+  - name: Only Office Service
+    url: https://office.dicc.um.edu.my
+    maxResponseTime: 15000
   - name: VPN Gateway 01
     check: "tcp-ping"
     url: "vpn01.dicc.um.edu.my"
