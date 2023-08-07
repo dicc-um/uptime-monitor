@@ -1,23 +1,46 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: dicc-um # Your GitHub organization or username, where this repository lives
+repo: uptime-monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Official Website
+    url: https://www.dicc.um.edu.my
+  - name: Single Sign-On Service
+    url: https://sso.dicc.um.edu.my
+  - name: Documentation
+    url: https://confluence.dicc.um.edu.my
+  - name: Service Desk
+    url: https://jira.dicc.um.edu.my/servicedesk
+  - name: Research Data Repository
+    url: https://researchdata.um.edu.my
+  - name: VPN Gateway 01
+    check: "tcp-ping"
+    url: "vpn01.dicc.um.edu.my"
+    port: 1194
+  - name: VPN Gateway 02
+    check: "tcp-ping"
+    url: "vpn02.dicc.um.edu.my"
+    port: 1194
+  - name: Public Web Server
+    check: "tcp-ping"
+    url: "webserver01.dicc.um.edu.my"
+    port: 22
+  - name: Primary DNS Server
+    check: "tcp-ping"
+    url: "dns1.dicc.um.edu.my"
+    port: 22
+  - name: Secondary DNS Server
+    check: "tcp-ping"
+    url: "dns2.dicc.um.edu.my"
+    port: 22
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  #cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.dicc.um.edu.my/wp-content/uploads/2019/01/cropped-DICC_logo-1.png
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
@@ -25,7 +48,7 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/dicc-um/uptime-monitor
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
