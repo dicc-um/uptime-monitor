@@ -40,18 +40,20 @@
     "url": "https://confluence.dicc.um.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/confluence.dicc.um.edu.my.ico",
     "slug": "documentation",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 3129,
     "timeDay": 2931,
     "timeWeek": 3129,
     "timeMonth": 3129,
     "timeYear": 3129,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-11": 0
+    }
   },
   {
     "name": "Service Desk",
