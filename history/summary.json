@@ -4,154 +4,170 @@
     "url": "https://www.dicc.um.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/www.dicc.um.edu.my.ico",
     "slug": "official-website",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 3702,
     "timeDay": 4110,
     "timeWeek": 3719,
     "timeMonth": 3702,
     "timeYear": 3702,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-30": 7
+    }
   },
   {
     "name": "Single Sign-On Service",
     "url": "https://sso.dicc.um.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/sso.dicc.um.edu.my.ico",
     "slug": "single-sign-on-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 2086,
     "timeDay": 2287,
     "timeWeek": 2025,
     "timeMonth": 2086,
     "timeYear": 2086,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-30": 7
+    }
   },
   {
     "name": "Documentation",
     "url": "https://confluence.dicc.um.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/confluence.dicc.um.edu.my.ico",
     "slug": "documentation",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 3560,
     "timeDay": 4173,
     "timeWeek": 3549,
     "timeMonth": 3560,
     "timeYear": 3560,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-30": 6
+    }
   },
   {
     "name": "Service Desk",
     "url": "https://jira.dicc.um.edu.my/servicedesk",
     "icon": "https://icons.duckduckgo.com/ip3/jira.dicc.um.edu.my.ico",
     "slug": "service-desk",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 3517,
     "timeDay": 3171,
     "timeWeek": 3611,
     "timeMonth": 3517,
     "timeYear": 3517,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-30": 6
+    }
   },
   {
     "name": "Research Data Repository",
     "url": "https://researchdata.um.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/researchdata.um.edu.my.ico",
     "slug": "research-data-repository",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1549,
     "timeDay": 1662,
     "timeWeek": 1543,
     "timeMonth": 1549,
     "timeYear": 1549,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-30": 5
+    }
   },
   {
     "name": "DICC Drive Service",
     "url": "https://drive.dicc.um.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/drive.dicc.um.edu.my.ico",
     "slug": "dicc-drive-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2813,
     "timeDay": 2623,
     "timeWeek": 2855,
     "timeMonth": 2813,
     "timeYear": 2813,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-30": 5
+    }
   },
   {
     "name": "Only Office Service",
     "url": "https://office.dicc.um.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/office.dicc.um.edu.my.ico",
     "slug": "only-office-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2874,
     "timeDay": 3891,
     "timeWeek": 3253,
     "timeMonth": 2874,
     "timeYear": 2874,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-30": 4
+    }
   },
   {
     "name": "VPN Gateway 01",
     "url": "vpn01.dicc.um.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-gateway-01",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 940,
     "timeDay": 1135,
     "timeWeek": 940,
     "timeMonth": 940,
     "timeYear": 940,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-30": 3
+    }
   },
   {
     "name": "VPN Gateway 02",
     "url": "vpn02.dicc.um.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-gateway-02",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 912,
@@ -159,16 +175,18 @@
     "timeWeek": 945,
     "timeMonth": 912,
     "timeYear": 912,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-30": 1
+    }
   },
   {
     "name": "Public Web Server",
     "url": "webserver01.dicc.um.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "public-web-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,6 +195,8 @@
     "timeWeek": 599,
     "timeMonth": 601,
     "timeYear": 601,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-30": 0
+    }
   }
 ]
