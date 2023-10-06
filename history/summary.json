@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dicc.um.edu.my.ico",
     "slug": "official-website",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.62%",
-    "time": 3010,
-    "timeDay": 2080,
-    "timeWeek": 2341,
+    "uptimeYear": "99.63%",
+    "time": 2999,
+    "timeDay": 2214,
+    "timeWeek": 2299,
     "timeMonth": 2389,
-    "timeYear": 3010,
+    "timeYear": 2999,
     "dailyMinutesDown": {
       "2023-08-30": 320
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.dicc.um.edu.my.ico",
     "slug": "single-sign-on-service",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.62%",
-    "time": 1882,
-    "timeDay": 1531,
-    "timeWeek": 1762,
-    "timeMonth": 1704,
-    "timeYear": 1882,
+    "uptimeYear": "99.63%",
+    "time": 1873,
+    "timeDay": 1255,
+    "timeWeek": 1684,
+    "timeMonth": 1697,
+    "timeYear": 1873,
     "dailyMinutesDown": {
       "2023-08-30": 319
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/confluence.dicc.um.edu.my.ico",
     "slug": "documentation",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.62%",
-    "time": 2932,
-    "timeDay": 1914,
-    "timeWeek": 2424,
-    "timeMonth": 2334,
-    "timeYear": 2932,
+    "uptimeYear": "99.63%",
+    "time": 2915,
+    "timeDay": 1758,
+    "timeWeek": 2297,
+    "timeMonth": 2324,
+    "timeYear": 2915,
     "dailyMinutesDown": {
       "2023-08-30": 318
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 2915,
-    "timeDay": 2182,
-    "timeWeek": 2402,
-    "timeMonth": 2354,
-    "timeYear": 2915,
+    "time": 2904,
+    "timeDay": 2180,
+    "timeWeek": 2408,
+    "timeMonth": 2364,
+    "timeYear": 2904,
     "dailyMinutesDown": {
       "2023-08-30": 317
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 1550,
-    "timeDay": 1352,
-    "timeWeek": 1554,
-    "timeMonth": 1576,
-    "timeYear": 1550,
+    "time": 1548,
+    "timeDay": 1397,
+    "timeWeek": 1516,
+    "timeMonth": 1578,
+    "timeYear": 1548,
     "dailyMinutesDown": {
       "2023-08-30": 316
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 2302,
-    "timeDay": 1356,
-    "timeWeek": 1745,
-    "timeMonth": 1821,
-    "timeYear": 2302,
+    "time": 2283,
+    "timeDay": 1095,
+    "timeWeek": 1607,
+    "timeMonth": 1817,
+    "timeYear": 2283,
     "dailyMinutesDown": {
       "2023-08-30": 307
     }
@@ -130,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 2247,
-    "timeDay": 1484,
-    "timeWeek": 1721,
-    "timeMonth": 1742,
-    "timeYear": 2247,
+    "time": 2228,
+    "timeDay": 1051,
+    "timeWeek": 1642,
+    "timeMonth": 1745,
+    "timeYear": 2228,
     "dailyMinutesDown": {
       "2023-08-30": 305
     }
@@ -145,16 +145,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-gateway-01",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.64%",
-    "time": 726,
-    "timeDay": 507,
-    "timeWeek": 511,
-    "timeMonth": 546,
-    "timeYear": 726,
+    "uptimeYear": "99.65%",
+    "time": 721,
+    "timeDay": 394,
+    "timeWeek": 494,
+    "timeMonth": 548,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2023-08-30": 303
     }
@@ -165,16 +165,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-gateway-02",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.64%",
-    "time": 695,
-    "timeDay": 379,
-    "timeWeek": 494,
-    "timeMonth": 519,
-    "timeYear": 695,
+    "uptimeYear": "99.65%",
+    "time": 691,
+    "timeDay": 383,
+    "timeWeek": 475,
+    "timeMonth": 521,
+    "timeYear": 691,
     "dailyMinutesDown": {
       "2023-08-30": 301
     }
@@ -190,11 +190,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
-    "time": 487,
-    "timeDay": 347,
-    "timeWeek": 421,
-    "timeMonth": 402,
-    "timeYear": 487,
+    "time": 483,
+    "timeDay": 212,
+    "timeWeek": 399,
+    "timeMonth": 403,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2023-08-30": 299
     }
