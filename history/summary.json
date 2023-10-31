@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dicc.um.edu.my.ico",
     "slug": "official-website",
     "status": "up",
-    "uptime": "99.73%",
+    "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.73%",
-    "time": 2845,
-    "timeDay": 2535,
-    "timeWeek": 2480,
-    "timeMonth": 2381,
-    "timeYear": 2845,
+    "uptimeYear": "99.74%",
+    "time": 2840,
+    "timeDay": 2339,
+    "timeWeek": 2425,
+    "timeMonth": 2380,
+    "timeYear": 2840,
     "dailyMinutesDown": {
       "2023-08-30": 320
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 1826,
-    "timeDay": 1807,
-    "timeWeek": 1761,
-    "timeMonth": 1685,
-    "timeYear": 1826,
+    "time": 1825,
+    "timeDay": 1725,
+    "timeWeek": 1733,
+    "timeMonth": 1686,
+    "timeYear": 1825,
     "dailyMinutesDown": {
       "2023-08-30": 319
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/confluence.dicc.um.edu.my.ico",
     "slug": "documentation",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.72%",
-    "time": 2733,
-    "timeDay": 1848,
-    "timeWeek": 2235,
-    "timeMonth": 2249,
-    "timeYear": 2733,
+    "uptimeYear": "99.73%",
+    "time": 2729,
+    "timeDay": 2342,
+    "timeWeek": 2198,
+    "timeMonth": 2252,
+    "timeYear": 2729,
     "dailyMinutesDown": {
       "2023-10-17": 15,
       "2023-08-30": 318
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 2721,
-    "timeDay": 2359,
-    "timeWeek": 2093,
-    "timeMonth": 2227,
-    "timeYear": 2721,
+    "time": 2714,
+    "timeDay": 2125,
+    "timeWeek": 2129,
+    "timeMonth": 2223,
+    "timeYear": 2714,
     "dailyMinutesDown": {
       "2023-08-30": 317
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 1536,
-    "timeDay": 1700,
-    "timeWeek": 1481,
-    "timeMonth": 1499,
-    "timeYear": 1536,
+    "time": 1535,
+    "timeDay": 1457,
+    "timeWeek": 1447,
+    "timeMonth": 1498,
+    "timeYear": 1535,
     "dailyMinutesDown": {
       "2023-08-30": 316
     }
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 2128,
-    "timeDay": 1590,
-    "timeWeek": 1693,
-    "timeMonth": 1682,
-    "timeYear": 2128,
+    "time": 2121,
+    "timeDay": 1551,
+    "timeWeek": 1646,
+    "timeMonth": 1678,
+    "timeYear": 2121,
     "dailyMinutesDown": {
       "2023-08-30": 307
     }
@@ -131,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 2024,
-    "timeDay": 1317,
-    "timeWeek": 1251,
-    "timeMonth": 1504,
-    "timeYear": 2024,
+    "time": 2018,
+    "timeDay": 1571,
+    "timeWeek": 1252,
+    "timeMonth": 1507,
+    "timeYear": 2018,
     "dailyMinutesDown": {
       "2023-08-30": 305
     }
@@ -151,11 +151,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 660,
-    "timeDay": 517,
-    "timeWeek": 464,
-    "timeMonth": 489,
-    "timeYear": 660,
+    "time": 656,
+    "timeDay": 364,
+    "timeWeek": 448,
+    "timeMonth": 485,
+    "timeYear": 656,
     "dailyMinutesDown": {
       "2023-08-30": 303
     }
@@ -171,11 +171,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 634,
-    "timeDay": 669,
-    "timeWeek": 526,
-    "timeMonth": 475,
-    "timeYear": 634,
+    "time": 632,
+    "timeDay": 448,
+    "timeWeek": 500,
+    "timeMonth": 474,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2023-08-30": 301
     }
@@ -186,16 +186,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "public-web-server",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.75%",
-    "time": 438,
-    "timeDay": 358,
-    "timeWeek": 280,
-    "timeMonth": 323,
-    "timeYear": 438,
+    "uptimeYear": "99.76%",
+    "time": 436,
+    "timeDay": 271,
+    "timeWeek": 266,
+    "timeMonth": 322,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2023-08-30": 299
     }
