@@ -44,18 +44,19 @@
     "url": "https://confluence.dicc.um.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/confluence.dicc.um.edu.my.ico",
     "slug": "documentation",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.75%",
     "time": 2691,
     "timeDay": 1850,
     "timeWeek": 2116,
     "timeMonth": 2224,
     "timeYear": 2691,
     "dailyMinutesDown": {
+      "2023-11-06": 0,
       "2023-10-17": 15,
       "2023-08-30": 318
     }
