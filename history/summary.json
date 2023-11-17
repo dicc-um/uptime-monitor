@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 2779,
-    "timeDay": 1969,
-    "timeWeek": 2335,
-    "timeMonth": 2413,
-    "timeYear": 2779,
+    "time": 2772,
+    "timeDay": 1967,
+    "timeWeek": 2238,
+    "timeMonth": 2412,
+    "timeYear": 2772,
     "dailyMinutesDown": {
       "2023-08-30": 320
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 1802,
-    "timeDay": 1378,
-    "timeWeek": 1690,
-    "timeMonth": 1680,
-    "timeYear": 1802,
+    "time": 1798,
+    "timeDay": 1337,
+    "timeWeek": 1627,
+    "timeMonth": 1678,
+    "timeYear": 1798,
     "dailyMinutesDown": {
       "2023-08-30": 319
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.69%",
-    "time": 2746,
-    "timeDay": 1859,
-    "timeWeek": 2031,
-    "timeMonth": 2487,
-    "timeYear": 2746,
+    "time": 2736,
+    "timeDay": 1677,
+    "timeWeek": 1900,
+    "timeMonth": 2474,
+    "timeYear": 2736,
     "dailyMinutesDown": {
       "2023-11-06": 122,
       "2023-10-17": 15,
@@ -72,11 +72,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.76%",
-    "time": 2656,
-    "timeDay": 2020,
-    "timeWeek": 2249,
-    "timeMonth": 2255,
-    "timeYear": 2656,
+    "time": 2652,
+    "timeDay": 2221,
+    "timeWeek": 2177,
+    "timeMonth": 2267,
+    "timeYear": 2652,
     "dailyMinutesDown": {
       "2023-11-14": 28,
       "2023-08-30": 317
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 1533,
-    "timeDay": 1276,
-    "timeWeek": 1491,
-    "timeMonth": 1509,
-    "timeYear": 1533,
+    "time": 1531,
+    "timeDay": 1326,
+    "timeWeek": 1447,
+    "timeMonth": 1511,
+    "timeYear": 1531,
     "dailyMinutesDown": {
       "2023-08-30": 316
     }
@@ -113,11 +113,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 2074,
-    "timeDay": 1419,
-    "timeWeek": 1782,
-    "timeMonth": 1758,
-    "timeYear": 2074,
+    "time": 2069,
+    "timeDay": 1562,
+    "timeWeek": 1705,
+    "timeMonth": 1762,
+    "timeYear": 2069,
     "dailyMinutesDown": {
       "2023-08-30": 307
     }
@@ -133,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 1972,
-    "timeDay": 967,
-    "timeWeek": 1819,
-    "timeMonth": 1561,
-    "timeYear": 1972,
+    "time": 1964,
+    "timeDay": 1129,
+    "timeWeek": 1659,
+    "timeMonth": 1565,
+    "timeYear": 1964,
     "dailyMinutesDown": {
       "2023-08-30": 305
     }
@@ -153,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 636,
-    "timeDay": 383,
-    "timeWeek": 556,
-    "timeMonth": 491,
-    "timeYear": 636,
+    "time": 634,
+    "timeDay": 461,
+    "timeWeek": 534,
+    "timeMonth": 493,
+    "timeYear": 634,
     "dailyMinutesDown": {
       "2023-08-30": 303
     }
@@ -173,11 +173,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 613,
-    "timeDay": 396,
-    "timeWeek": 532,
+    "time": 610,
+    "timeDay": 313,
+    "timeWeek": 495,
     "timeMonth": 486,
-    "timeYear": 613,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2023-08-30": 301
     }
@@ -188,16 +188,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "public-web-server",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
-    "time": 422,
-    "timeDay": 310,
-    "timeWeek": 356,
-    "timeMonth": 321,
-    "timeYear": 422,
+    "uptimeYear": "99.80%",
+    "time": 420,
+    "timeDay": 274,
+    "timeWeek": 328,
+    "timeMonth": 323,
+    "timeYear": 420,
     "dailyMinutesDown": {
       "2023-08-30": 299
     }
