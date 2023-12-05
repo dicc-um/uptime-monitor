@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 2712,
-    "timeDay": 2071,
-    "timeWeek": 2114,
+    "time": 2706,
+    "timeDay": 1985,
+    "timeWeek": 2061,
     "timeMonth": 2327,
-    "timeYear": 2712,
+    "timeYear": 2706,
     "dailyMinutesDown": {
       "2023-08-30": 320
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sso.dicc.um.edu.my.ico",
     "slug": "single-sign-on-service",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
-    "time": 1784,
-    "timeDay": 1831,
-    "timeWeek": 1571,
-    "timeMonth": 1668,
-    "timeYear": 1784,
+    "uptimeYear": "99.82%",
+    "time": 1781,
+    "timeDay": 1378,
+    "timeWeek": 1533,
+    "timeMonth": 1667,
+    "timeYear": 1781,
     "dailyMinutesDown": {
       "2023-08-30": 319
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.72%",
-    "time": 2673,
-    "timeDay": 2677,
-    "timeWeek": 1942,
-    "timeMonth": 2563,
-    "timeYear": 2673,
+    "time": 2668,
+    "timeDay": 1993,
+    "timeWeek": 1976,
+    "timeMonth": 2575,
+    "timeYear": 2668,
     "dailyMinutesDown": {
       "2023-11-24": 21,
       "2023-11-06": 122,
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.77%",
-    "time": 2606,
-    "timeDay": 2396,
-    "timeWeek": 2110,
-    "timeMonth": 2303,
-    "timeYear": 2606,
+    "time": 2599,
+    "timeDay": 1561,
+    "timeWeek": 2015,
+    "timeMonth": 2297,
+    "timeYear": 2599,
     "dailyMinutesDown": {
       "2023-11-24": 32,
       "2023-11-21": 21,
@@ -96,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 1532,
-    "timeDay": 1665,
-    "timeWeek": 1464,
+    "time": 1530,
+    "timeDay": 1284,
+    "timeWeek": 1423,
     "timeMonth": 1509,
-    "timeYear": 1532,
+    "timeYear": 1530,
     "dailyMinutesDown": {
       "2023-08-30": 316
     }
@@ -116,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 2032,
-    "timeDay": 2326,
-    "timeWeek": 1594,
-    "timeMonth": 1794,
-    "timeYear": 2032,
+    "time": 2030,
+    "timeDay": 1792,
+    "timeWeek": 1637,
+    "timeMonth": 1805,
+    "timeYear": 2030,
     "dailyMinutesDown": {
       "2023-08-30": 307
     }
@@ -136,11 +136,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 1945,
-    "timeDay": 2372,
-    "timeWeek": 1636,
-    "timeMonth": 1774,
-    "timeYear": 1945,
+    "time": 1939,
+    "timeDay": 1178,
+    "timeWeek": 1601,
+    "timeMonth": 1753,
+    "timeYear": 1939,
     "dailyMinutesDown": {
       "2023-08-30": 305
     }
@@ -156,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 619,
-    "timeDay": 612,
-    "timeWeek": 465,
+    "time": 617,
+    "timeDay": 274,
+    "timeWeek": 444,
     "timeMonth": 521,
-    "timeYear": 619,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2023-08-30": 303
     }
@@ -171,16 +171,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-gateway-02",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
-    "time": 597,
-    "timeDay": 516,
-    "timeWeek": 433,
+    "uptimeYear": "99.83%",
+    "time": 595,
+    "timeDay": 351,
+    "timeWeek": 430,
     "timeMonth": 500,
-    "timeYear": 597,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2023-08-30": 301
     }
@@ -196,11 +196,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 415,
-    "timeDay": 415,
-    "timeWeek": 320,
-    "timeMonth": 360,
-    "timeYear": 415,
+    "time": 414,
+    "timeDay": 342,
+    "timeWeek": 321,
+    "timeMonth": 363,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2023-08-30": 299
     }
